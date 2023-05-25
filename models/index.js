@@ -1,12 +1,12 @@
 const { sequelize } = require("./connection");
-const Department = require("./department");
+const Pars = require("./Pars");
 
 const db = {};
 
 db.sequelize = sequelize;
 
 // model 생성
-db.Department = Department;
+db.Pars = Pars;
 
 // model init
 Department.init(sequelize);
