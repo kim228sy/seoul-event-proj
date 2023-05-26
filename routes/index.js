@@ -1,5 +1,7 @@
 const express = require("express");
 const logger = require("../lib/logger");
+const boardRouter = require("./board");
+const eventRouter = require("./event");
 const userRouter = require("./user");
 const authRouter = require("./auth");
 const postRouter = require("./post");
@@ -22,6 +24,8 @@ router.get("/log-test", (req, res, next) => {
   res.send("log test");
 });
 
+router.use("/board", boardRouter);
+router.use("/event", eventRouter);
 router.use("/users", userRouter);
 router.use("/auths", authRouter);
 router.use("/posts", postRouter);

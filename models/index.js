@@ -1,4 +1,5 @@
 const { sequelize } = require("./connection");
+const Board = require("./board");
 const User = require("./user");
 const Post = require("./post");
 
@@ -6,7 +7,7 @@ const db = {};
 
 db.sequelize = sequelize;
 
-// model 생성
+db.Board = Board;
 db.User = User;
 db.Post = Post;
 

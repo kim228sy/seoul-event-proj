@@ -5,8 +5,11 @@ const path = require("path");
 const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const cors = require("cors");
+const bodyParser = require("body-parser");
+const dotenv = require("dotenv");
 const corsConfig = require("./config/corsConfig.json");
 const models = require("./models/index");
+
 const logger = require("./lib/logger");
 
 dotenv.config();
@@ -48,8 +51,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+
 app.use(express.json());
-app.use(express.static("uploads"));
 
 app.use("/", indexRouter);
 
