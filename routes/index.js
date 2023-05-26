@@ -1,6 +1,8 @@
 const express = require("express");
 const logger = require("../lib/logger");
-const departmentRouter = require("./department");
+const userRouter = require("./user");
+const authRouter = require("./auth");
+const postRouter = require("./post");
 
 const router = express.Router();
 
@@ -9,7 +11,6 @@ router.get("/", (req, res, next) => {
   res.render("index", { title: "Express" });
 });
 
-// logTest
 router.get("/log-test", (req, res, next) => {
   logger.error("This message is error");
   logger.warn("This message is warn");
@@ -21,6 +22,8 @@ router.get("/log-test", (req, res, next) => {
   res.send("log test");
 });
 
-router.use("/departments", departmentRouter);
+router.use("/users", userRouter);
+router.use("/auths", authRouter);
+router.use("/posts", postRouter);
 
 module.exports = router;

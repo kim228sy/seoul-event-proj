@@ -1,12 +1,15 @@
 const { Op } = require("sequelize");
-const { Department } = require("../models/index");
+const { User, Department } = require("../models/index");
 
 const dao = {
   // 등록
   insert(params) {
     return new Promise((resolve, reject) => {
-      Department.create(params)
+      User.create(params)
         .then((inserted) => {
+          // password는 제외하고 리턴함
+          const insertedResult = { ...inserted };
+          delete insertedResult.dataValues.password;
           resolve(inserted);
         })
         .catch((err) => {
@@ -24,11 +27,10 @@ const dao = {
         name: { [Op.like]: `%${params.name}%` }, // like검색
       };
     }
-    if (params.name) {
+    if (params.userid) {
       setQuery.where = {
-        ...(setQuery.where = {
-          name: { [Op.like]: `%${params.name}%` },
-        }),
+        ...setQuery.where,
+        userid: params.userid, // '='검색
       };
     }
 
@@ -36,8 +38,15 @@ const dao = {
     setQuery.order = [["id", "DESC"]];
 
     return new Promise((resolve, reject) => {
-      Department.findAndCountAll({
+      User.findAndCountAll({
         ...setQuery,
+        attributes: { exclude: ["password"] }, // password 필드 제외
+        include: [
+          {
+            model: Department,
+            as: "Department",
+          },
+        ],
       })
         .then((selectedList) => {
           resolve(selectedList);
@@ -47,40 +56,14 @@ const dao = {
         });
     });
   },
-  // 상세정보 조회
-  selectInfo(params) {
+  selectUser(params) {
     return new Promise((resolve, reject) => {
-      Department.findByPk(params.id)
-        .then((selectedInfo) => {
-          resolve(selectedInfo);
-        })
-        .catch((err) => {
-          reject(err);
-        });
-    });
-  },
-  // 수정
-  update(params) {
-    return new Promise((resolve, reject) => {
-      Department.update(params, {
-        where: { id: params.id },
+      User.findOne({
+        attributes: ["id", "userid", "password", "name", "role"],
+        where: { userid: params.userid },
       })
-        .then(([updated]) => {
-          resolve({ updatedCount: updated });
-        })
-        .catch((err) => {
-          reject(err);
-        });
-    });
-  },
-  // 삭제
-  delete(params) {
-    return new Promise((resolve, reject) => {
-      Department.destroy({
-        where: { id: params.id },
-      })
-        .then((deleted) => {
-          resolve({ deletedCount: deleted });
+        .then((selectedOne) => {
+          resolve(selectedOne);
         })
         .catch((err) => {
           reject(err);
