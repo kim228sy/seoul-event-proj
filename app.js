@@ -4,19 +4,20 @@ const path = require("path");
 const cookieParser = require("cookie-parser");
 
 const cors = require("cors");
+const bodyParser = require("body-parser");
+const dotenv = require("dotenv");
 const corsConfig = require("./config/corsConfig.json");
 // const logger = require('morgan'); // 구코드 삭제
 const logger = require("./lib/logger");
 const models = require("./models/index");
-const bodyParser = require("body-parser");
 
 const indexRouter = require("./routes/index");
-const usersRouter = require("./routes/users");
+// const  usersRouter = require('./routes/users'); // 구코드 삭제
 
 const app = express();
 logger.info("app start");
-const dotenv = require("dotenv");
-const NODE_ENV = process.env.NODE_ENV;
+
+const { NODE_ENV } = process.env;
 
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
@@ -30,9 +31,10 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+app.use(express.static("uploads"));
 
 app.use("/", indexRouter);
-app.use("/users", usersRouter);
+// app.use('/users', usersRouter); // 구코드 삭제
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {

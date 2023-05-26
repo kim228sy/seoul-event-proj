@@ -1,0 +1,367 @@
+2023-05-26 13:28:07.976[info] app start
+2023-05-26 13:28:08.044[info] DB connection success
+2023-05-26 13:28:08.047[info] Sequelize sync success
+2023-05-26 13:36:16.718[info] app start
+2023-05-26 13:36:16.829[info] DB connection success
+2023-05-26 13:36:16.833[info] Sequelize sync success
+2023-05-26 13:49:43.764[info] app start
+2023-05-26 13:49:43.839[info] DB connection success
+2023-05-26 13:49:43.843[info] Sequelize sync success
+2023-05-26 13:55:58.882[info] app start
+2023-05-26 13:55:58.994[info] DB connection success
+2023-05-26 13:55:58.998[info] Sequelize sync success
+2023-05-26 13:56:32.407[info] app start
+2023-05-26 13:56:32.501[info] DB connection success
+2023-05-26 13:56:32.503[info] Sequelize sync success
+2023-05-26 13:58:15.901[info] app start
+2023-05-26 13:58:15.982[info] DB connection success
+2023-05-26 13:58:15.986[info] Sequelize sync success
+2023-05-26 13:58:59.493[info] app start
+2023-05-26 13:58:59.571[info] DB connection success
+2023-05-26 13:58:59.574[info] Sequelize sync success
+2023-05-26 14:03:58.834[info] app start
+2023-05-26 14:03:58.997[info] DB connection success
+2023-05-26 14:03:59.000[info] Sequelize sync success
+2023-05-26 14:21:55.966[info] app start
+2023-05-26 14:21:56.061[info] DB connection success
+2023-05-26 14:21:56.065[info] Sequelize sync success
+2023-05-26 14:21:57.516[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:21:57.517[error] Error: Not allowed null (TITLE)
+2023-05-26 14:22:34.641[info] app start
+2023-05-26 14:22:34.718[info] DB connection success
+2023-05-26 14:22:34.721[info] Sequelize sync success
+2023-05-26 14:22:37.471[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:22:37.472[info] (event.reg.result) undefined
+2023-05-26 14:23:14.556[info] app start
+2023-05-26 14:23:14.645[info] DB connection success
+2023-05-26 14:23:14.648[info] Sequelize sync success
+2023-05-26 14:23:45.754[info] app start
+2023-05-26 14:23:45.824[info] DB connection success
+2023-05-26 14:23:45.827[info] Sequelize sync success
+2023-05-26 14:23:51.026[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:23:51.027[info] (event.reg.result) undefined
+2023-05-26 14:24:03.674[info] app start
+2023-05-26 14:24:03.750[info] DB connection success
+2023-05-26 14:24:03.752[info] Sequelize sync success
+2023-05-26 14:24:06.140[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:24:06.142[info] (event.reg.result) undefined
+2023-05-26 14:24:31.206[info] app start
+2023-05-26 14:24:31.303[info] DB connection success
+2023-05-26 14:24:31.307[info] Sequelize sync success
+2023-05-26 14:24:32.874[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:25:03.161[info] app start
+2023-05-26 14:25:03.262[info] DB connection success
+2023-05-26 14:25:03.265[info] Sequelize sync success
+2023-05-26 14:25:05.194[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:25:05.197[error] (eventUtil.getData)-TypeError: Cannot read property 'CODENAME' of undefined
+2023-05-26 14:25:05.198[info] (event.reg.result) {"result":{}}
+2023-05-26 14:25:20.026[info] app start
+2023-05-26 14:25:20.106[info] DB connection success
+2023-05-26 14:25:20.109[info] Sequelize sync success
+2023-05-26 14:25:22.395[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:25:22.809[error] (eventUtil.getData)-TypeError: Cannot read property 'array' of undefined
+2023-05-26 14:25:22.826[info] (event.reg.result) {"result":{}}
+2023-05-26 14:25:34.647[info] app start
+2023-05-26 14:25:34.726[info] DB connection success
+2023-05-26 14:25:34.729[info] Sequelize sync success
+2023-05-26 14:25:36.664[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:25:36.972[error] (eventUtil.getData)-TypeError: Cannot read property 'array' of undefined
+2023-05-26 14:25:36.973[info] (event.reg.result) {"result":{}}
+2023-05-26 14:26:00.832[info] app start
+2023-05-26 14:26:00.907[info] DB connection success
+2023-05-26 14:26:00.910[info] Sequelize sync success
+2023-05-26 14:26:02.925[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:26:03.301[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:26:03.302[info] (event.reg.result) {"result":{}}
+2023-05-26 14:26:09.112[info] app start
+2023-05-26 14:26:09.210[info] DB connection success
+2023-05-26 14:26:09.216[info] Sequelize sync success
+2023-05-26 14:26:10.607[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:26:10.740[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:26:10.741[info] (event.reg.result) {"result":{}}
+2023-05-26 14:26:29.159[info] app start
+2023-05-26 14:26:29.227[info] DB connection success
+2023-05-26 14:26:29.231[info] Sequelize sync success
+2023-05-26 14:26:30.450[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:26:30.603[error] (eventUtil.getData)-TypeError: Cannot read property 'array' of undefined
+2023-05-26 14:26:30.604[info] (event.reg.result) {"result":{}}
+2023-05-26 14:26:35.962[info] app start
+2023-05-26 14:26:36.043[info] DB connection success
+2023-05-26 14:26:36.045[info] Sequelize sync success
+2023-05-26 14:26:36.987[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:26:37.121[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:26:37.122[info] (event.reg.result) {"result":{}}
+2023-05-26 14:26:52.123[info] app start
+2023-05-26 14:26:52.204[info] DB connection success
+2023-05-26 14:26:52.207[info] Sequelize sync success
+2023-05-26 14:26:52.832[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:26:53.023[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:26:53.024[info] (event.reg.result) {"result":{}}
+2023-05-26 14:30:11.594[info] app start
+2023-05-26 14:30:11.688[info] DB connection success
+2023-05-26 14:30:11.691[info] Sequelize sync success
+2023-05-26 14:30:12.986[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:30:13.142[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:30:13.144[info] (event.reg.result) {"result":{}}
+2023-05-26 14:30:44.106[info] app start
+2023-05-26 14:30:44.197[info] DB connection success
+2023-05-26 14:30:44.200[info] Sequelize sync success
+2023-05-26 14:30:46.095[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:30:46.239[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:30:46.240[info] (event.reg.result) {"result":{}}
+2023-05-26 14:31:16.815[info] app start
+2023-05-26 14:31:16.896[info] DB connection success
+2023-05-26 14:31:16.898[info] Sequelize sync success
+2023-05-26 14:32:11.177[info] app start
+2023-05-26 14:32:11.265[info] DB connection success
+2023-05-26 14:32:11.269[info] Sequelize sync success
+2023-05-26 14:32:15.525[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:32:15.645[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:32:15.645[info] (event.reg.result) {"result":{}}
+2023-05-26 14:34:01.073[info] app start
+2023-05-26 14:34:01.157[info] DB connection success
+2023-05-26 14:34:01.159[info] Sequelize sync success
+2023-05-26 14:34:15.737[info] app start
+2023-05-26 14:34:15.804[info] DB connection success
+2023-05-26 14:34:15.808[info] Sequelize sync success
+2023-05-26 14:34:20.320[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:34:20.453[error] (eventUtil.getData)-TypeError: Cannot read property 'forEach' of undefined
+2023-05-26 14:34:20.454[info] (event.reg.result) {"result":{}}
+2023-05-26 14:36:42.505[info] app start
+2023-05-26 14:36:42.594[info] DB connection success
+2023-05-26 14:36:42.597[info] Sequelize sync success
+2023-05-26 14:36:46.740[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:36:46.907[debug] (eventUtil.getData)-[object Object]
+2023-05-26 14:36:46.907[info] (event.reg.result) {"result":{}}
+2023-05-26 14:37:24.246[info] app start
+2023-05-26 14:37:24.321[info] DB connection success
+2023-05-26 14:37:24.325[info] Sequelize sync success
+2023-05-26 14:37:27.006[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:37:27.210[debug] (eventUtil.getData)-[object Object]
+2023-05-26 14:37:27.211[info] (event.reg.result) {"result":{" M 아티스트 2023 김도현 피아노 리사이틀 II":[{"CODENAME":"클래식","GUNAME":"마포구","TITLE":" M 아티스트 2023 김도현 피아노 리사이틀 II","DATE":"2023-12-05~2023-12-05","PLACE":"마포아트센터 아트홀맥","ORG_NAME":"","USE_TRGT":" 8세이상관람가[미취학아동입장불가]","USE_FEE":" VIP석 55,000원, R석 44,000원, S석 33,000원","PLAYER":"피아니스트 김도현","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.mfac.or.kr/performance/whole_view.jsp?sc_b_category=17&sc_b_code=BOARD_1207683401&pk_seq=2176&page=1","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6a59720cd9c34bbfa056eb6b5031f809&thumb=Y","RGSTDATE":"2023-03-15","TICKET":"기관","STRTDATE":"2023-12-05 00:00:00.0","END_DATE":"2023-12-05 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황","DATE":"2023-10-10~2023-10-10","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"빌리, 왜 발레를 하니? 그냥 기분이 좋아요. 하늘을 나는 새가 된 것처럼요!","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=526","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=4ac665cc73254531bd651f441d4fb9a8&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-10-10 00:00:00.0","END_DATE":"2023-10-10 00:00:00.0","THEMECODE":""}],"Dear Next Generation, 유다빈밴드(YUDABINBAND)":[{"CODENAME":"콘서트","GUNAME":"강동구","TITLE":"Dear Next Generation, 유다빈밴드(YUDABINBAND)","DATE":"2023-09-28~2023-09-28","PLACE":"강동아트센터 대극장 한강","ORG_NAME":"","USE_TRGT":"14세이상 관람가","USE_FEE":"R석 66,000원 S석 44,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"http://www.gdfac.or.kr/web/lay2/program/S1T204C211/show/view.do?show_seq=1925&cpage=2&rows=10&keyword=&place=&start_dt=&end_dt=","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=c694a4f0777040b994e88390c2b982b1&thumb=Y","RGSTDATE":"2023-03-02","TICKET":"기관","STRTDATE":"2023-09-28 00:00:00.0","END_DATE":"2023-09-28 00:00:00.0","THEMECODE":"기타"}],"음유시인 [최백호 콘서트]":[{"CODENAME":"콘서트","GUNAME":"광진구","TITLE":"음유시인 [최백호 콘서트]","DATE":"2023-09-09~2023-09-09","PLACE":"나루아트센터 대공연장","ORG_NAME":"","USE_TRGT":"추후 공지","USE_FEE":"R석 60,000원 / S석 40,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.naruart.or.kr/bbs/board.php?bo_table=performance&wr_id=836&page=2","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=674d0710b6084774842f79bf6fd5c4c2&thumb=Y","RGSTDATE":"2023-05-18","TICKET":"기관","STRTDATE":"2023-09-09 00:00:00.0","END_DATE":"2023-09-09 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]","DATE":"2023-09-05~2023-09-05","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"알프스에서 들려오는 환상의 하모니! 세상에서 가장 사랑스러운 합창이 시작된다! 다 함께 도-레-미~♪♬","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=525","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e296cbc68c394b5096506d753f669910&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-09-05 00:00:00.0","END_DATE":"2023-09-05 00:00:00.0","THEMECODE":""}]}}
+2023-05-26 14:38:35.801[info] app start
+2023-05-26 14:38:35.876[info] DB connection success
+2023-05-26 14:38:35.878[info] Sequelize sync success
+2023-05-26 14:38:56.931[info] app start
+2023-05-26 14:38:57.005[info] DB connection success
+2023-05-26 14:38:57.009[info] Sequelize sync success
+2023-05-26 14:40:14.043[info] app start
+2023-05-26 14:40:14.126[info] DB connection success
+2023-05-26 14:40:14.130[info] Sequelize sync success
+2023-05-26 14:41:12.808[info] app start
+2023-05-26 14:41:12.900[info] DB connection success
+2023-05-26 14:41:12.903[info] Sequelize sync success
+2023-05-26 14:41:16.375[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 14:41:16.505[debug] (eventUtil.getData)-[object Object]
+2023-05-26 14:41:16.506[info] (event.reg.result) {"result":{" M 아티스트 2023 김도현 피아노 리사이틀 II":[{"CODENAME":"클래식","GUNAME":"마포구","TITLE":" M 아티스트 2023 김도현 피아노 리사이틀 II","DATE":"2023-12-05~2023-12-05","PLACE":"마포아트센터 아트홀맥","ORG_NAME":"","USE_TRGT":" 8세이상관람가[미취학아동입장불가]","USE_FEE":" VIP석 55,000원, R석 44,000원, S석 33,000원","PLAYER":"피아니스트 김도현","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.mfac.or.kr/performance/whole_view.jsp?sc_b_category=17&sc_b_code=BOARD_1207683401&pk_seq=2176&page=1","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6a59720cd9c34bbfa056eb6b5031f809&thumb=Y","RGSTDATE":"2023-03-15","TICKET":"기관","STRTDATE":"2023-12-05 00:00:00.0","END_DATE":"2023-12-05 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황","DATE":"2023-10-10~2023-10-10","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"빌리, 왜 발레를 하니? 그냥 기분이 좋아요. 하늘을 나는 새가 된 것처럼요!","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=526","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=4ac665cc73254531bd651f441d4fb9a8&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-10-10 00:00:00.0","END_DATE":"2023-10-10 00:00:00.0","THEMECODE":""}],"Dear Next Generation, 유다빈밴드(YUDABINBAND)":[{"CODENAME":"콘서트","GUNAME":"강동구","TITLE":"Dear Next Generation, 유다빈밴드(YUDABINBAND)","DATE":"2023-09-28~2023-09-28","PLACE":"강동아트센터 대극장 한강","ORG_NAME":"","USE_TRGT":"14세이상 관람가","USE_FEE":"R석 66,000원 S석 44,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"http://www.gdfac.or.kr/web/lay2/program/S1T204C211/show/view.do?show_seq=1925&cpage=2&rows=10&keyword=&place=&start_dt=&end_dt=","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=c694a4f0777040b994e88390c2b982b1&thumb=Y","RGSTDATE":"2023-03-02","TICKET":"기관","STRTDATE":"2023-09-28 00:00:00.0","END_DATE":"2023-09-28 00:00:00.0","THEMECODE":"기타"}],"음유시인 [최백호 콘서트]":[{"CODENAME":"콘서트","GUNAME":"광진구","TITLE":"음유시인 [최백호 콘서트]","DATE":"2023-09-09~2023-09-09","PLACE":"나루아트센터 대공연장","ORG_NAME":"","USE_TRGT":"추후 공지","USE_FEE":"R석 60,000원 / S석 40,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.naruart.or.kr/bbs/board.php?bo_table=performance&wr_id=836&page=2","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=674d0710b6084774842f79bf6fd5c4c2&thumb=Y","RGSTDATE":"2023-05-18","TICKET":"기관","STRTDATE":"2023-09-09 00:00:00.0","END_DATE":"2023-09-09 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]","DATE":"2023-09-05~2023-09-05","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"알프스에서 들려오는 환상의 하모니! 세상에서 가장 사랑스러운 합창이 시작된다! 다 함께 도-레-미~♪♬","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=525","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e296cbc68c394b5096506d753f669910&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-09-05 00:00:00.0","END_DATE":"2023-09-05 00:00:00.0","THEMECODE":""}]}}
+2023-05-26 14:44:04.660[info] app start
+2023-05-26 14:44:04.746[info] DB connection success
+2023-05-26 14:44:04.748[info] Sequelize sync success
+2023-05-26 15:34:50.764[info] app start
+2023-05-26 15:34:50.850[info] DB connection success
+2023-05-26 15:34:50.852[info] Sequelize sync success
+2023-05-26 15:34:52.630[info] app start
+2023-05-26 15:34:52.693[info] DB connection success
+2023-05-26 15:34:52.695[info] Sequelize sync success
+2023-05-26 15:35:01.481[info] (event.reg.params) {"CODENAME":"1","GUNAME":"seoul","TITLE":"","DATE":"","PLACE":"","ORG_NAME":"","USE_TRGT":"","USE_FEE":"","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"","MAIN_IMG":"","RGSTDATE":"","TICKET":"","STRTDATE":"","END_DATE":"","THECODE":""}
+2023-05-26 15:35:01.646[debug] (eventUtil.getData)-[object Object]
+2023-05-26 15:35:01.647[info] (event.reg.result) {"result":{" M 아티스트 2023 김도현 피아노 리사이틀 II":[{"CODENAME":"클래식","GUNAME":"마포구","TITLE":" M 아티스트 2023 김도현 피아노 리사이틀 II","DATE":"2023-12-05~2023-12-05","PLACE":"마포아트센터 아트홀맥","ORG_NAME":"","USE_TRGT":" 8세이상관람가[미취학아동입장불가]","USE_FEE":" VIP석 55,000원, R석 44,000원, S석 33,000원","PLAYER":"피아니스트 김도현","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.mfac.or.kr/performance/whole_view.jsp?sc_b_category=17&sc_b_code=BOARD_1207683401&pk_seq=2176&page=1","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6a59720cd9c34bbfa056eb6b5031f809&thumb=Y","RGSTDATE":"2023-03-15","TICKET":"기관","STRTDATE":"2023-12-05 00:00:00.0","END_DATE":"2023-12-05 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황","DATE":"2023-10-10~2023-10-10","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"빌리, 왜 발레를 하니? 그냥 기분이 좋아요. 하늘을 나는 새가 된 것처럼요!","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=526","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=4ac665cc73254531bd651f441d4fb9a8&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-10-10 00:00:00.0","END_DATE":"2023-10-10 00:00:00.0","THEMECODE":""}],"Dear Next Generation, 유다빈밴드(YUDABINBAND)":[{"CODENAME":"콘서트","GUNAME":"강동구","TITLE":"Dear Next Generation, 유다빈밴드(YUDABINBAND)","DATE":"2023-09-28~2023-09-28","PLACE":"강동아트센터 대극장 한강","ORG_NAME":"","USE_TRGT":"14세이상 관람가","USE_FEE":"R석 66,000원 S석 44,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"http://www.gdfac.or.kr/web/lay2/program/S1T204C211/show/view.do?show_seq=1925&cpage=2&rows=10&keyword=&place=&start_dt=&end_dt=","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=c694a4f0777040b994e88390c2b982b1&thumb=Y","RGSTDATE":"2023-03-02","TICKET":"기관","STRTDATE":"2023-09-28 00:00:00.0","END_DATE":"2023-09-28 00:00:00.0","THEMECODE":"기타"}],"음유시인 [최백호 콘서트]":[{"CODENAME":"콘서트","GUNAME":"광진구","TITLE":"음유시인 [최백호 콘서트]","DATE":"2023-09-09~2023-09-09","PLACE":"나루아트센터 대공연장","ORG_NAME":"","USE_TRGT":"추후 공지","USE_FEE":"R석 60,000원 / S석 40,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.naruart.or.kr/bbs/board.php?bo_table=performance&wr_id=836&page=2","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=674d0710b6084774842f79bf6fd5c4c2&thumb=Y","RGSTDATE":"2023-05-18","TICKET":"기관","STRTDATE":"2023-09-09 00:00:00.0","END_DATE":"2023-09-09 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]","DATE":"2023-09-05~2023-09-05","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"알프스에서 들려오는 환상의 하모니! 세상에서 가장 사랑스러운 합창이 시작된다! 다 함께 도-레-미~♪♬","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=525","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e296cbc68c394b5096506d753f669910&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-09-05 00:00:00.0","END_DATE":"2023-09-05 00:00:00.0","THEMECODE":""}]}}
+2023-05-26 15:35:07.371[info] (board.list.params) {}
+2023-05-26 15:35:07.373[error] (boardService.list) TypeError: Cannot read property 'findAndCountAll' of undefined
+2023-05-26 15:35:31.271[info] (board.list.params) {}
+2023-05-26 15:35:31.272[error] (boardService.list) TypeError: Cannot read property 'findAndCountAll' of undefined
+2023-05-26 15:38:29.284[info] app start
+2023-05-26 15:38:29.368[info] DB connection success
+2023-05-26 15:38:29.371[info] Sequelize sync success
+2023-05-26 15:38:34.333[info] (board.list.params) {}
+2023-05-26 15:38:34.334[error] (boardService.list) TypeError: (intermediate value).catch is not a function
+2023-05-26 15:38:43.794[info] app start
+2023-05-26 15:38:43.855[info] DB connection success
+2023-05-26 15:38:43.858[info] Sequelize sync success
+2023-05-26 15:39:18.108[info] app start
+2023-05-26 15:39:18.171[info] DB connection success
+2023-05-26 15:39:18.174[info] Sequelize sync success
+2023-05-26 15:39:25.470[info] (board.list.params) {}
+2023-05-26 15:39:25.471[error] (boardService.list) TypeError: Cannot read property 'findAndCountAll' of undefined
+2023-05-26 15:39:52.337[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:39:52.339[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:47:01.244[info] (board.reg.params) {}
+2023-05-26 15:47:01.245[error] Error: Not allowed null (name)
+2023-05-26 15:47:01.246[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:47:17.592[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:47:17.593[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:49:34.857[info] app start
+2023-05-26 15:49:34.921[info] DB connection success
+2023-05-26 15:49:34.923[info] Sequelize sync success
+2023-05-26 15:49:48.744[info] app start
+2023-05-26 15:49:48.860[info] DB connection success
+2023-05-26 15:49:48.863[info] Sequelize sync success
+2023-05-26 15:49:51.979[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:49:51.983[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:50:26.076[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:50:26.078[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:51:28.302[info] app start
+2023-05-26 15:51:28.393[info] DB connection success
+2023-05-26 15:51:28.395[info] Sequelize sync success
+2023-05-26 15:51:29.672[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:51:29.675[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:52:12.018[info] app start
+2023-05-26 15:52:12.102[info] DB connection success
+2023-05-26 15:52:12.105[info] Sequelize sync success
+2023-05-26 15:52:16.625[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:52:16.628[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:53:06.196[info] app start
+2023-05-26 15:53:06.305[info] DB connection success
+2023-05-26 15:53:06.308[info] Sequelize sync success
+2023-05-26 15:53:08.817[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:53:08.820[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:54:16.917[info] app start
+2023-05-26 15:54:17.004[info] DB connection success
+2023-05-26 15:54:17.007[info] Sequelize sync success
+2023-05-26 15:54:31.445[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:54:31.448[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:55:52.912[info] app start
+2023-05-26 15:55:53.033[info] DB connection success
+2023-05-26 15:55:53.036[info] Sequelize sync success
+2023-05-26 15:55:54.850[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:55:54.854[error] (boardService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-26 15:56:39.454[info] app start
+2023-05-26 15:56:39.522[info] DB connection success
+2023-05-26 15:56:39.524[info] Sequelize sync success
+2023-05-26 15:58:02.900[info] app start
+2023-05-26 15:58:02.980[info] DB connection success
+2023-05-26 15:58:02.983[info] Sequelize sync success
+2023-05-26 15:58:29.858[info] app start
+2023-05-26 15:58:29.921[info] DB connection success
+2023-05-26 15:58:29.951[info] Sequelize sync success
+2023-05-26 15:58:40.132[info] app start
+2023-05-26 15:58:40.228[info] DB connection success
+2023-05-26 15:58:40.237[info] Sequelize sync success
+2023-05-26 15:58:43.359[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:58:43.376[debug] (boardService.reg) {"id":1,"updatedAt":"2023-05-26T06:58:43.363Z","createdAt":"2023-05-26T06:58:43.363Z"}
+2023-05-26 15:58:43.377[info] (board.reg.result) {"id":1,"updatedAt":"2023-05-26T06:58:43.363Z","createdAt":"2023-05-26T06:58:43.363Z"}
+2023-05-26 15:59:30.014[info] app start
+2023-05-26 15:59:30.078[info] DB connection success
+2023-05-26 15:59:30.087[info] Sequelize sync success
+2023-05-26 15:59:34.553[info] app start
+2023-05-26 15:59:34.667[info] DB connection success
+2023-05-26 15:59:34.679[info] Sequelize sync success
+2023-05-26 15:59:36.290[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 15:59:36.304[debug] (boardService.reg) {"id":2,"updatedAt":"2023-05-26T06:59:36.296Z","createdAt":"2023-05-26T06:59:36.296Z"}
+2023-05-26 15:59:36.305[info] (board.reg.result) {"id":2,"updatedAt":"2023-05-26T06:59:36.296Z","createdAt":"2023-05-26T06:59:36.296Z"}
+2023-05-26 16:01:21.610[info] app start
+2023-05-26 16:01:21.683[info] DB connection success
+2023-05-26 16:01:21.692[info] Sequelize sync success
+2023-05-26 16:01:24.733[info] (board.reg.params) {}
+2023-05-26 16:01:24.734[error] Error: Not allowed null (name)
+2023-05-26 16:01:24.753[debug] (boardService.reg) {"id":3,"updatedAt":"2023-05-26T07:01:24.740Z","createdAt":"2023-05-26T07:01:24.740Z"}
+2023-05-26 16:01:24.755[info] (board.reg.result) {"id":3,"updatedAt":"2023-05-26T07:01:24.740Z","createdAt":"2023-05-26T07:01:24.740Z"}
+2023-05-26 16:01:28.628[info] app start
+2023-05-26 16:01:28.703[info] DB connection success
+2023-05-26 16:01:28.715[info] Sequelize sync success
+2023-05-26 16:01:30.950[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:01:30.967[debug] (boardService.reg) {"id":4,"updatedAt":"2023-05-26T07:01:30.955Z","createdAt":"2023-05-26T07:01:30.955Z"}
+2023-05-26 16:01:30.968[info] (board.reg.result) {"id":4,"updatedAt":"2023-05-26T07:01:30.955Z","createdAt":"2023-05-26T07:01:30.955Z"}
+2023-05-26 16:02:02.466[info] app start
+2023-05-26 16:02:02.532[info] DB connection success
+2023-05-26 16:02:02.542[info] Sequelize sync success
+2023-05-26 16:02:06.579[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:02:06.597[debug] (boardService.reg) {"id":5,"updatedAt":"2023-05-26T07:02:06.584Z","createdAt":"2023-05-26T07:02:06.584Z"}
+2023-05-26 16:02:06.598[info] (board.reg.result) {"id":5,"updatedAt":"2023-05-26T07:02:06.584Z","createdAt":"2023-05-26T07:02:06.584Z"}
+2023-05-26 16:03:13.096[info] app start
+2023-05-26 16:03:13.179[info] DB connection success
+2023-05-26 16:03:13.190[info] Sequelize sync success
+2023-05-26 16:03:48.287[info] app start
+2023-05-26 16:03:48.351[info] DB connection success
+2023-05-26 16:03:48.373[info] Sequelize sync success
+2023-05-26 16:03:53.531[info] app start
+2023-05-26 16:03:53.594[info] DB connection success
+2023-05-26 16:03:53.604[info] Sequelize sync success
+2023-05-26 16:03:55.814[info] (board.reg.params) {}
+2023-05-26 16:03:55.814[error] Error: Not allowed null (name)
+2023-05-26 16:03:55.837[debug] (boardService.reg) {"id":1,"updatedAt":"2023-05-26T07:03:55.822Z","createdAt":"2023-05-26T07:03:55.822Z"}
+2023-05-26 16:03:55.839[info] (board.reg.result) {"id":1,"updatedAt":"2023-05-26T07:03:55.822Z","createdAt":"2023-05-26T07:03:55.822Z"}
+2023-05-26 16:04:14.656[info] app start
+2023-05-26 16:04:14.718[info] DB connection success
+2023-05-26 16:04:14.727[info] Sequelize sync success
+2023-05-26 16:04:36.950[info] app start
+2023-05-26 16:04:37.032[info] DB connection success
+2023-05-26 16:04:37.041[info] Sequelize sync success
+2023-05-26 16:04:56.279[info] app start
+2023-05-26 16:04:56.341[info] DB connection success
+2023-05-26 16:04:56.351[info] Sequelize sync success
+2023-05-26 16:05:02.019[info] app start
+2023-05-26 16:05:02.079[info] DB connection success
+2023-05-26 16:05:02.088[info] Sequelize sync success
+2023-05-26 16:05:08.866[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:05:08.877[error] (boardService.reg) SequelizeDatabaseError: Unknown column 'guname' in 'field list'
+2023-05-26 16:05:27.270[info] app start
+2023-05-26 16:05:27.334[info] DB connection success
+2023-05-26 16:05:27.343[info] Sequelize sync success
+2023-05-26 16:05:29.355[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:05:29.366[error] (boardService.reg) SequelizeDatabaseError: Unknown column 'guname' in 'field list'
+2023-05-26 16:05:49.952[info] app start
+2023-05-26 16:05:50.021[info] DB connection success
+2023-05-26 16:05:50.031[info] Sequelize sync success
+2023-05-26 16:05:53.191[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:05:53.203[error] (boardService.reg) SequelizeDatabaseError: Unknown column 'guname' in 'field list'
+2023-05-26 16:07:53.920[info] app start
+2023-05-26 16:07:54.028[info] DB connection success
+2023-05-26 16:07:54.036[info] Sequelize sync success
+2023-05-26 16:07:56.312[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:07:56.328[error] (boardService.reg) SequelizeDatabaseError: Unknown column 'guname' in 'field list'
+2023-05-26 16:08:07.183[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:08:07.196[error] (boardService.reg) SequelizeDatabaseError: Table 'seoul_event.boards' doesn't exist
+2023-05-26 16:08:18.305[info] app start
+2023-05-26 16:08:18.375[info] DB connection success
+2023-05-26 16:08:18.399[info] Sequelize sync success
+2023-05-26 16:08:22.003[info] (board.reg.params) {"codename":"1","guname":"seoul"}
+2023-05-26 16:08:22.021[debug] (boardService.reg) {"id":1,"codename":"1","guname":"seoul","updatedAt":"2023-05-26T07:08:22.008Z","createdAt":"2023-05-26T07:08:22.008Z"}
+2023-05-26 16:08:22.023[info] (board.reg.result) {"id":1,"codename":"1","guname":"seoul","updatedAt":"2023-05-26T07:08:22.008Z","createdAt":"2023-05-26T07:08:22.008Z"}
+2023-05-26 16:19:19.650[info] app start
+2023-05-26 16:19:19.725[info] DB connection success
+2023-05-26 16:19:19.736[info] Sequelize sync success
+2023-05-26 16:19:24.866[info] (board.list.params) {}
+2023-05-26 16:19:24.867[error] (boardService.list) TypeError: Cannot read property 'includeAttributes' of undefined
+2023-05-26 16:19:54.981[info] app start
+2023-05-26 16:19:55.050[info] DB connection success
+2023-05-26 16:19:55.060[info] Sequelize sync success
+2023-05-26 16:19:57.922[info] (board.list.params) {}
+2023-05-26 16:19:57.943[error] (boardService.list) TypeError: Cannot read property 'includeAttributes' of undefined
+2023-05-26 16:20:20.200[info] app start
+2023-05-26 16:20:20.264[info] DB connection success
+2023-05-26 16:20:20.274[info] Sequelize sync success
+2023-05-26 16:20:22.541[info] (board.list.params) {}
+2023-05-26 16:20:22.575[debug] (boardService.list) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:20:22.575[info] (board.list.result) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:22:36.726[info] app start
+2023-05-26 16:22:36.809[info] DB connection success
+2023-05-26 16:22:36.817[info] Sequelize sync success
+2023-05-26 16:22:40.144[info] (board.list.params) {}
+2023-05-26 16:22:40.277[error] (boardService.list) TypeError: Cannot read property 'includeAttributes' of undefined
+2023-05-26 16:23:08.135[info] app start
+2023-05-26 16:23:08.230[info] DB connection success
+2023-05-26 16:23:08.239[info] Sequelize sync success
+2023-05-26 16:23:13.712[info] (board.list.params) {}
+2023-05-26 16:23:13.814[error] (boardService.list) TypeError: Cannot read property 'includeAttributes' of undefined
+2023-05-26 16:25:18.029[info] app start
+2023-05-26 16:25:18.108[info] DB connection success
+2023-05-26 16:25:18.122[info] Sequelize sync success
+2023-05-26 16:25:22.385[info] (board.list.params) {}
+2023-05-26 16:25:22.491[debug] (boardService.list) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:25:22.492[info] (board.list.result) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:29:33.811[info] app start
+2023-05-26 16:29:33.878[info] DB connection success
+2023-05-26 16:29:33.888[info] Sequelize sync success
+2023-05-26 16:29:52.932[info] (board.list.params) {}
+2023-05-26 16:29:53.080[debug] (boardService.list) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:29:53.081[info] (board.list.result) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:30:21.437[info] (event.reg.params) {}
+2023-05-26 16:30:21.544[debug] (eventUtil.getData)-[object Object]
+2023-05-26 16:30:21.545[info] (event.reg.result) {"result":{" M 아티스트 2023 김도현 피아노 리사이틀 II":[{"CODENAME":"클래식","GUNAME":"마포구","TITLE":" M 아티스트 2023 김도현 피아노 리사이틀 II","DATE":"2023-12-05~2023-12-05","PLACE":"마포아트센터 아트홀맥","ORG_NAME":"","USE_TRGT":" 8세이상관람가[미취학아동입장불가]","USE_FEE":" VIP석 55,000원, R석 44,000원, S석 33,000원","PLAYER":"피아니스트 김도현","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.mfac.or.kr/performance/whole_view.jsp?sc_b_category=17&sc_b_code=BOARD_1207683401&pk_seq=2176&page=1","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6a59720cd9c34bbfa056eb6b5031f809&thumb=Y","RGSTDATE":"2023-03-15","TICKET":"기관","STRTDATE":"2023-12-05 00:00:00.0","END_DATE":"2023-12-05 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 뮤지컬 [빌리 엘리어트] 공연 실황","DATE":"2023-10-10~2023-10-10","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"빌리, 왜 발레를 하니? 그냥 기분이 좋아요. 하늘을 나는 새가 된 것처럼요!","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=526","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=4ac665cc73254531bd651f441d4fb9a8&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-10-10 00:00:00.0","END_DATE":"2023-10-10 00:00:00.0","THEMECODE":""}],"Dear Next Generation, 유다빈밴드(YUDABINBAND)":[{"CODENAME":"콘서트","GUNAME":"강동구","TITLE":"Dear Next Generation, 유다빈밴드(YUDABINBAND)","DATE":"2023-09-28~2023-09-28","PLACE":"강동아트센터 대극장 한강","ORG_NAME":"","USE_TRGT":"14세이상 관람가","USE_FEE":"R석 66,000원 S석 44,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"http://www.gdfac.or.kr/web/lay2/program/S1T204C211/show/view.do?show_seq=1925&cpage=2&rows=10&keyword=&place=&start_dt=&end_dt=","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=c694a4f0777040b994e88390c2b982b1&thumb=Y","RGSTDATE":"2023-03-02","TICKET":"기관","STRTDATE":"2023-09-28 00:00:00.0","END_DATE":"2023-09-28 00:00:00.0","THEMECODE":"기타"}],"음유시인 [최백호 콘서트]":[{"CODENAME":"콘서트","GUNAME":"광진구","TITLE":"음유시인 [최백호 콘서트]","DATE":"2023-09-09~2023-09-09","PLACE":"나루아트센터 대공연장","ORG_NAME":"","USE_TRGT":"추후 공지","USE_FEE":"R석 60,000원 / S석 40,000원","PLAYER":"","PROGRAM":"","ETC_DESC":"","ORG_LINK":"https://www.naruart.or.kr/bbs/board.php?bo_table=performance&wr_id=836&page=2","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=674d0710b6084774842f79bf6fd5c4c2&thumb=Y","RGSTDATE":"2023-05-18","TICKET":"기관","STRTDATE":"2023-09-09 00:00:00.0","END_DATE":"2023-09-09 00:00:00.0","THEMECODE":"기타"}],"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]":[{"CODENAME":"영화","GUNAME":"서초구","TITLE":"[서초문화재단] 심산 영화관 [사운드 오브 뮤직]","DATE":"2023-09-05~2023-09-05","PLACE":"서초문화재단 반포심산아트홀","ORG_NAME":"서초문화재단 홈페이지","USE_TRGT":"전체관람가","USE_FEE":"전석무료(사전예약)","PLAYER":"","PROGRAM":"알프스에서 들려오는 환상의 하모니! 세상에서 가장 사랑스러운 합창이 시작된다! 다 함께 도-레-미~♪♬","ETC_DESC":"","ORG_LINK":"https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=525","MAIN_IMG":"https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e296cbc68c394b5096506d753f669910&thumb=Y","RGSTDATE":"2023-05-08","TICKET":"기관","STRTDATE":"2023-09-05 00:00:00.0","END_DATE":"2023-09-05 00:00:00.0","THEMECODE":""}]}}
+2023-05-26 16:30:55.200[info] (board.list.params) {}
+2023-05-26 16:30:55.291[debug] (boardService.list) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:30:55.293[info] (board.list.result) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:34:09.739[info] (board.list.params) {}
+2023-05-26 16:34:09.845[debug] (boardService.list) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
+2023-05-26 16:34:09.846[info] (board.list.result) {"count":1,"rows":[{"id":1,"codename":"1","guname":"seoul","createdAt":"2023-05-26T07:08:22.000Z","updatedAt":"2023-05-26T07:08:22.000Z","deletedAt":null}]}
